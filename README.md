@@ -1,1 +1,1 @@
-# Coronavirus-Sentiment-Analysis-using-NLP
+# Coronavirus-Tweet-Sentiment-Analysis-using-NLP
